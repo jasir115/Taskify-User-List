@@ -59,13 +59,4 @@ The app is structured into the following layers:
 3. Sync the project with Gradle files.
 4. Run the app on an emulator or a physical device (API 26+).
 
-## 📄 License
 
-```text
-Copyright 2024
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-```
